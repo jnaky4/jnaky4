@@ -1,0 +1,1 @@
+How far I got: to step 9 where the command line function did not work in PSQL
