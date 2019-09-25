@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbfa4d13-7b6d-4e19-98ba-c685db12e379" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Pytest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/other_code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/other_code/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/.idea/tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/00_empty_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/01_basic_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/02_special_assertions_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/03_simple_fixture_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/04_fixture_returns_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/05_yield_fixture_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/06_request_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/07_request_finalizer_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/08_params_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/09_params-ception_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/10_advanced_params-ception_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/11_mark_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/12_special_marks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/13_mark_parametrization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/14_class_based_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/15_advanced_class_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/16_scoped_and_meta_fixtures_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/17_marked_meta_fixtures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/18_the_mocker_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/19_re_usable_mock_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/20_file_not_found_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/21_minimum_score_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/other_stuff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/test3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/test4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tests/test5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tox.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/00_empty_test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/01_basic_test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/02_special_assertions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/03_reviewing_the_basics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/04_intro_to_fixtures.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/05_fixture_return_values.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/06_yield_fixtures.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/07_request_fixtures.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/08_request_finalizers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/09_intro_to_parameters.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/10_parameter-ception.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/11_advanced_parameter-ception.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/12_reviewing_fixtures.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/13_intro_to_test_marking.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-intro-to-pytest/tutorials/14_mark_based_parameters.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jacob Alongi" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1488" />
+    <option name="width" value="1522" />
+    <option name="height" value="1930" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="5-intro-to-pytest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="5-intro-to-pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbfa4d13-7b6d-4e19-98ba-c685db12e379" name="Default Changelist" comment="" />
+      <created>1569430282732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569430282732</updated>
+      <workItem from="1569430284544" duration="332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="332000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="744" y="0" width="761" height="965" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496454" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teachers and my own py testing methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teachers and my own py testing methods" />
+  </component>
+</project>
